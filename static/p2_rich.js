@@ -109,7 +109,7 @@ __SYD.caBtn = () =>{
                             style:"height:50px;width:calc(100% - 50px);padding:5px;display:flex;align-items:center;"
                         },
                         [
-                            __c('p',{style:'font-weight:700;font-size:16px;max-width:100%;white-space: nowrap; overflow: hidden; text-overflow: ellipsis;'},['3dqCzpuSCpinzZGdzwq5NxdjJDpCbhVby2NoUzf8moon'])
+                            __c('p',{style:'font-weight:700;font-size:16px;max-width:100%;white-space: nowrap; overflow: hidden; text-overflow: ellipsis;'},['HtdxVpdxvsiV45p6Wp52RfcPfsVwDSAv1DKFyJmNVR8i'])
                         ]
                     ),
                     __c(
@@ -123,7 +123,7 @@ __SYD.caBtn = () =>{
                 // {
                     events:{
                         onclick:() =>{
-                            navigator.clipboard.writeText('3dqCzpuSCpinzZGdzwq5NxdjJDpCbhVby2NoUzf8moon')
+                            navigator.clipboard.writeText('HtdxVpdxvsiV45p6Wp52RfcPfsVwDSAv1DKFyJmNVR8i')
                             alert('contract address copied')
                         }
                     }
