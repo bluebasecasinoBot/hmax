@@ -125,7 +125,7 @@ __SYD.container = () =>{
                         [
                             __SYD.page1SocialBtn({contentSrc:'tel' , link:"https://t.me/+DpxQBtNpqMI4NzY0"}),
                             __SYD.page1SocialBtn({contentSrc:'x' , link:"https://x.com/highmax204?s=21&t=qfSXdhkZzfcCwc1cZFrtqQ"}),
-                            __SYD.page1SocialBtn({contentSrc:'tik' , link:"https://www.tiktok.com/@macwifhat?_t=ZG-8tB8xHtlp7A&_r=1"})
+                            // __SYD.page1SocialBtn({contentSrc:'tik' , link:"#"})
                         ]
                     )
                 ]
