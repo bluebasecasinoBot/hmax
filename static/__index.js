@@ -257,7 +257,7 @@ __SYD.nav_b_text = (text,click) =>{
                     switch(true)
                     {
                         case click === 'suntzutrx':
-                            window.location = 'https://dexscreener.com/solana/fjp2xcly5uncrtmnyhdqhzrcjnx2e2yjsm3nhbamn6uy'
+                            window.location = 'https://tools.smithii.io/launches-list/solana'
                         break;
                         default:
                             __v[click].scrollIntoView();
