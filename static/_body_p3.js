@@ -77,7 +77,7 @@ __SYD._p3 = () =>{
 }
 
 __SYD.buyNowBtn = () =>{
-    return __c('a',{href:'https://dexscreener.com/solana/fjp2xcly5uncrtmnyhdqhzrcjnx2e2yjsm3nhbamn6uy',target:'blank',style:`display:${__p(['navBar','__nav_d'],'flex')};align-items:center;justify-content:center;padding:15px 30px;text-decoration:none;`+__sC["txt_shade3"](),class:'btn_buy'},['Buy Now'],{genericStyle:['bg_fit']})
+    return __c('a',{href:'https://tools.smithii.io/launches-list/solana',target:'blank',style:`display:${__p(['navBar','__nav_d'],'flex')};align-items:center;justify-content:center;padding:15px 30px;text-decoration:none;`+__sC["txt_shade3"](),class:'btn_buy'},['Buy Now'],{genericStyle:['bg_fit']})
 }
 
 
